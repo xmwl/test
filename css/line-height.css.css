@@ -1,0 +1,133 @@
+.lh53 {
+  line-height: 53px;
+}
+
+.lh29 {
+  line-height: 29px;
+}
+
+.lh24 {
+  line-height: 24px;
+}
+
+.lh22 {
+  line-height: 22px;
+}
+
+.lh20 {
+  line-height: 20px;
+}
+
+.lh17 {
+  line-height: 17px;
+}
+
+.lh14 {
+  line-height: 14px;
+}
+
+.lh13 {
+  line-height: 13px;
+}
+
+@media screen and (min-width: 480px) {
+  .lh53-ns {
+    line-height: 53px;
+  }
+
+  .lh29-ns {
+    line-height: 29px;
+  }
+
+  .lh24-ns {
+    line-height: 24px;
+  }
+
+  .lh22-ns {
+    line-height: 22px;
+  }
+
+  .lh20-ns {
+    line-height: 20px;
+  }
+
+  .lh17-ns {
+    line-height: 17px;
+  }
+
+  .lh14-ns {
+    line-height: 14px;
+  }
+
+  .lh13-ns {
+    line-height: 13px;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 960px) {
+  .lh53-m {
+    line-height: 53px;
+  }
+
+  .lh29-m {
+    line-height: 29px;
+  }
+
+  .lh24-m {
+    line-height: 24px;
+  }
+
+  .lh22-m {
+    line-height: 22px;
+  }
+
+  .lh20-m {
+    line-height: 20px;
+  }
+
+  .lh17-m {
+    line-height: 17px;
+  }
+
+  .lh14-m {
+    line-height: 14px;
+  }
+
+  .lh13-m {
+    line-height: 13px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .lh53-l {
+    line-height: 53px;
+  }
+
+  .lh29-l {
+    line-height: 29px;
+  }
+
+  .lh24-l {
+    line-height: 24px;
+  }
+
+  .lh22-l {
+    line-height: 22px;
+  }
+
+  .lh20-l {
+    line-height: 20px;
+  }
+
+  .lh17-l {
+    line-height: 17px;
+  }
+
+  .lh14-l {
+    line-height: 14px;
+  }
+
+  .lh13-l {
+    line-height: 13px;
+  }
+}

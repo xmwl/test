@@ -1,0 +1,287 @@
+.hover-blue-casper:hover {
+  color: #B0B6B7;
+}
+
+.disabled-blue-casper:disabled {
+  color: #B0B6B7;
+}
+
+.focus-blue-casper:focus {
+  color: #B0B6B7;
+}
+
+.hover-blue-river-bed:hover {
+  color: #515E5F;
+}
+
+.disabled-blue-river-bed:disabled {
+  color: #515E5F;
+}
+
+.focus-blue-river-bed:focus {
+  color: #515E5F;
+}
+
+.hover-blue-submarine:hover {
+  color: #929A9B;
+}
+
+.disabled-blue-submarine:disabled {
+  color: #929A9B;
+}
+
+.focus-blue-submarine:focus {
+  color: #929A9B;
+}
+
+.hover-green-dark-slate:hover {
+  color: #404c4d;
+}
+
+.disabled-green-dark-slate:disabled {
+  color: #404c4d;
+}
+
+.focus-green-dark-slate:focus {
+  color: #404c4d;
+}
+
+.hover-green-light-sea:hover {
+  color: #11A7AA;
+}
+
+.disabled-green-light-sea:disabled {
+  color: #11A7AA;
+}
+
+.focus-green-light-sea:focus {
+  color: #11A7AA;
+}
+
+.hover-grey-athens:hover {
+  color: #DFE1E1;
+}
+
+.disabled-grey-athens:disabled {
+  color: #DFE1E1;
+}
+
+.focus-grey-athens:focus {
+  color: #DFE1E1;
+}
+
+.hover-grey-hit:hover {
+  color: #a2a7a8;
+}
+
+.disabled-grey-hit:disabled {
+  color: #a2a7a8;
+}
+
+.focus-grey-hit:focus {
+  color: #a2a7a8;
+}
+
+.hover-grey-lily-white:hover {
+  color: #F4F6F6;
+}
+
+.disabled-grey-lily-white:disabled {
+  color: #F4F6F6;
+}
+
+.focus-grey-lily-white:focus {
+  color: #F4F6F6;
+}
+
+.hover-grey-oslo:hover {
+  color: #808889;
+}
+
+.disabled-grey-oslo:disabled {
+  color: #808889;
+}
+
+.focus-grey-oslo:focus {
+  color: #808889;
+}
+
+.hover-grey-zumthor:hover {
+  color: #D3D6D7;
+}
+
+.disabled-grey-zumthor:disabled {
+  color: #D3D6D7;
+}
+
+.focus-grey-zumthor:focus {
+  color: #D3D6D7;
+}
+
+.hover-transparent:hover {
+  color: transparent;
+}
+
+.disabled-transparent:disabled {
+  color: transparent;
+}
+
+.focus-transparent:focus {
+  color: transparent;
+}
+
+.hover-white:hover {
+  color: #FFFFFF;
+}
+
+.disabled-white:disabled {
+  color: #FFFFFF;
+}
+
+.focus-white:focus {
+  color: #FFFFFF;
+}
+
+.hover-bg-blue-casper:hover {
+  background: #B0B6B7;
+}
+
+.disabled-bg-blue-casper:disabled {
+  background: #B0B6B7;
+}
+
+.focus-bg-blue-casper:focus {
+  background: #B0B6B7;
+}
+
+.hover-bg-blue-river-bed:hover {
+  background: #515E5F;
+}
+
+.disabled-bg-blue-river-bed:disabled {
+  background: #515E5F;
+}
+
+.focus-bg-blue-river-bed:focus {
+  background: #515E5F;
+}
+
+.hover-bg-blue-submarine:hover {
+  background: #929A9B;
+}
+
+.disabled-bg-blue-submarine:disabled {
+  background: #929A9B;
+}
+
+.focus-bg-blue-submarine:focus {
+  background: #929A9B;
+}
+
+.hover-bg-green-dark-slate:hover {
+  background: #404c4d;
+}
+
+.disabled-bg-green-dark-slate:disabled {
+  background: #404c4d;
+}
+
+.focus-bg-green-dark-slate:focus {
+  background: #404c4d;
+}
+
+.hover-bg-green-light-sea:hover {
+  background: #11A7AA;
+}
+
+.disabled-bg-green-light-sea:disabled {
+  background: #11A7AA;
+}
+
+.focus-bg-green-light-sea:focus {
+  background: #11A7AA;
+}
+
+.hover-bg-grey-athens:hover {
+  background: #DFE1E1;
+}
+
+.disabled-bg-grey-athens:disabled {
+  background: #DFE1E1;
+}
+
+.focus-bg-grey-athens:focus {
+  background: #DFE1E1;
+}
+
+.hover-bg-grey-hit:hover {
+  background: #a2a7a8;
+}
+
+.disabled-bg-grey-hit:disabled {
+  background: #a2a7a8;
+}
+
+.focus-bg-grey-hit:focus {
+  background: #a2a7a8;
+}
+
+.hover-bg-grey-lily-white:hover {
+  background: #F4F6F6;
+}
+
+.disabled-bg-grey-lily-white:disabled {
+  background: #F4F6F6;
+}
+
+.focus-bg-grey-lily-white:focus {
+  background: #F4F6F6;
+}
+
+.hover-bg-grey-oslo:hover {
+  background: #808889;
+}
+
+.disabled-bg-grey-oslo:disabled {
+  background: #808889;
+}
+
+.focus-bg-grey-oslo:focus {
+  background: #808889;
+}
+
+.hover-bg-grey-zumthor:hover {
+  background: #D3D6D7;
+}
+
+.disabled-bg-grey-zumthor:disabled {
+  background: #D3D6D7;
+}
+
+.focus-bg-grey-zumthor:focus {
+  background: #D3D6D7;
+}
+
+.hover-bg-transparent:hover {
+  background: transparent;
+}
+
+.disabled-bg-transparent:disabled {
+  background: transparent;
+}
+
+.focus-bg-transparent:focus {
+  background: transparent;
+}
+
+.hover-bg-white:hover {
+  background: #FFFFFF;
+}
+
+.disabled-bg-white:disabled {
+  background: #FFFFFF;
+}
+
+.focus-bg-white:focus {
+  background: #FFFFFF;
+}

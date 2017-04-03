@@ -1,0 +1,117 @@
+.f1 {
+  font-size: 44px;
+}
+
+.f2 {
+  font-size: 24px;
+}
+
+.f3 {
+  font-size: 18px;
+}
+
+.f4 {
+  font-size: 16px;
+}
+
+.f5 {
+  font-size: 14px;
+}
+
+.f6 {
+  font-size: 12px;
+}
+
+.f7 {
+  font-size: 11px;
+}
+
+@media screen and (min-width: 480px) {
+  .f1-ns {
+    font-size: 44px;
+  }
+
+  .f2-ns {
+    font-size: 24px;
+  }
+
+  .f3-ns {
+    font-size: 18px;
+  }
+
+  .f4-ns {
+    font-size: 16px;
+  }
+
+  .f5-ns {
+    font-size: 14px;
+  }
+
+  .f6-ns {
+    font-size: 12px;
+  }
+
+  .f7-ns {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 960px) {
+  .f1-m {
+    font-size: 44px;
+  }
+
+  .f2-m {
+    font-size: 24px;
+  }
+
+  .f3-m {
+    font-size: 18px;
+  }
+
+  .f4-m {
+    font-size: 16px;
+  }
+
+  .f5-m {
+    font-size: 14px;
+  }
+
+  .f6-m {
+    font-size: 12px;
+  }
+
+  .f7-m {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .f1-l {
+    font-size: 44px;
+  }
+
+  .f2-l {
+    font-size: 24px;
+  }
+
+  .f3-l {
+    font-size: 18px;
+  }
+
+  .f4-l {
+    font-size: 16px;
+  }
+
+  .f5-l {
+    font-size: 14px;
+  }
+
+  .f6-l {
+    font-size: 12px;
+  }
+
+  .f7-l {
+    font-size: 11px;
+  }
+}
